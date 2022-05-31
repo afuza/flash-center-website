@@ -1,0 +1,14 @@
+[16-Mar-2021 16:31:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/flaswuxc/hpanel.flashing.center/index/user/lapor/index.php on line 30
+[16-Mar-2021 16:31:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/flaswuxc/hpanel.flashing.center/index/user/lapor/index.php on line 30
+[16-Mar-2021 16:38:57 Asia/Jakarta] PHP Notice:  Undefined variable: invo in /home/flaswuxc/hpanel.flashing.center/index/user/lapor/balasan.php on line 15
+[16-Mar-2021 16:43:09 Asia/Jakarta] PHP Notice:  Undefined index: isichat in /home/flaswuxc/hpanel.flashing.center/index/user/lapor/balasan.php on line 18
+[16-Mar-2021 16:43:09 Asia/Jakarta] PHP Notice:  Undefined index: email_b in /home/flaswuxc/hpanel.flashing.center/index/user/lapor/balasan.php on line 19
+[16-Mar-2021 16:43:09 Asia/Jakarta] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/flaswuxc/hpanel.flashing.center/index/user/lapor/balasan.php on line 20
+[16-Mar-2021 16:44:33 Asia/Jakarta] PHP Notice:  Undefined index: isi in /home/flaswuxc/hpanel.flashing.center/index/user/lapor/balasan.php on line 19
+[16-Mar-2021 17:02:51 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/flaswuxc/hpanel.flashing.center/index/user/lapor/balasan.php on line 15
+[16-Mar-2021 17:02:51 Asia/Jakarta] PHP Notice:  Undefined variable: isichat in /home/flaswuxc/hpanel.flashing.center/index/user/lapor/balasan.php on line 76
+[16-Mar-2021 17:02:51 Asia/Jakarta] PHP Notice:  Undefined variable: email in /home/flaswuxc/hpanel.flashing.center/index/user/lapor/balasan.php on line 77
+[16-Mar-2021 17:02:51 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/flaswuxc/hpanel.flashing.center/index/user/lapor/balasan.php on line 78
+[16-Mar-2021 17:02:51 Asia/Jakarta] PHP Notice:  Undefined variable: subject in /home/flaswuxc/hpanel.flashing.center/index/user/lapor/balasan.php on line 79
+[16-Mar-2021 17:02:51 Asia/Jakarta] PHP Notice:  Undefined variable: id_orderan in /home/flaswuxc/hpanel.flashing.center/index/user/lapor/balasan.php on line 80
+[16-Mar-2021 17:02:51 Asia/Jakarta] PHP Notice:  Undefined variable: masalah in /home/flaswuxc/hpanel.flashing.center/index/user/lapor/balasan.php on line 81

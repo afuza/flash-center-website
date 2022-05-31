@@ -1,0 +1,16 @@
+[11-Mar-2021 13:37:06 America/New_York] PHP Notice:  Undefined index: level in /home/flaswuxc/hpanel.flashing.center/index/admin/view/header.php on line 5
+[12-Mar-2021 01:37:06 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/flaswuxc/hpanel.flashing.center/index/admin/view/header.php on line 274
+[12-Mar-2021 01:37:06 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/flaswuxc/hpanel.flashing.center/index/admin/view/header.php on line 275
+[16-Mar-2021 06:37:47 America/New_York] PHP Notice:  Undefined index: level in /home/flaswuxc/hpanel.flashing.center/index/admin/view/header.php on line 5
+[16-Mar-2021 17:37:47 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/flaswuxc/hpanel.flashing.center/index/admin/view/header.php on line 261
+[16-Mar-2021 17:37:47 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/flaswuxc/hpanel.flashing.center/index/admin/view/header.php on line 262
+[16-Mar-2021 18:04:09 Asia/Jakarta] PHP Notice:  Undefined index: INVOICE in /home/flaswuxc/hpanel.flashing.center/index/admin/tiket/index.php on line 66
+[16-Mar-2021 18:04:09 Asia/Jakarta] PHP Notice:  Undefined index: INVOICE in /home/flaswuxc/hpanel.flashing.center/index/admin/tiket/index.php on line 66
+[16-Mar-2021 18:04:09 Asia/Jakarta] PHP Notice:  Undefined index: INVOICE in /home/flaswuxc/hpanel.flashing.center/index/admin/tiket/index.php on line 66
+[16-Mar-2021 18:04:09 Asia/Jakarta] PHP Notice:  Undefined index: INVOICE in /home/flaswuxc/hpanel.flashing.center/index/admin/tiket/index.php on line 66
+[16-Mar-2021 18:05:41 Asia/Jakarta] PHP Notice:  Undefined index: INVOICE in /home/flaswuxc/hpanel.flashing.center/index/admin/tiket/index.php on line 66
+[16-Mar-2021 18:05:41 Asia/Jakarta] PHP Notice:  Undefined index: INVOICE in /home/flaswuxc/hpanel.flashing.center/index/admin/tiket/index.php on line 66
+[16-Mar-2021 18:05:41 Asia/Jakarta] PHP Notice:  Undefined index: INVOICE in /home/flaswuxc/hpanel.flashing.center/index/admin/tiket/index.php on line 66
+[16-Mar-2021 18:05:41 Asia/Jakarta] PHP Notice:  Undefined index: INVOICE in /home/flaswuxc/hpanel.flashing.center/index/admin/tiket/index.php on line 66
+[16-Mar-2021 18:06:58 Asia/Jakarta] PHP Notice:  Undefined index: INVOICE in /home/flaswuxc/hpanel.flashing.center/index/admin/tiket/index.php on line 66
+[16-Mar-2021 18:07:51 Asia/Jakarta] PHP Notice:  Undefined index: INVOICE in /home/flaswuxc/hpanel.flashing.center/index/admin/tiket/index.php on line 66

@@ -1,0 +1,532 @@
+[31-Aug-2020 12:19:36 America/New_York] PHP Warning:  include(../../../config/database/koneksi.php): failed to open stream: No such file or directory in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/proses.php on line 8
+[31-Aug-2020 12:19:36 America/New_York] PHP Warning:  include(../../../config/database/koneksi.php): failed to open stream: No such file or directory in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/proses.php on line 8
+[31-Aug-2020 12:19:36 America/New_York] PHP Warning:  include(): Failed opening '../../../config/database/koneksi.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/proses.php on line 8
+[31-Aug-2020 12:19:36 America/New_York] PHP Notice:  Undefined variable: koneksi in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/proses.php on line 9
+[31-Aug-2020 12:19:36 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/proses.php on line 9
+[31-Aug-2020 12:19:36 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/proses.php on line 10
+[01-Sep-2020 00:12:21 America/New_York] PHP Warning:  Use of undefined constant invo - assumed 'invo' (this will throw an Error in a future version of PHP) in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 3
+[01-Sep-2020 00:13:48 America/New_York] PHP Warning:  Use of undefined constant invo - assumed 'invo' (this will throw an Error in a future version of PHP) in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 3
+[01-Sep-2020 00:14:03 America/New_York] PHP Warning:  Use of undefined constant invo - assumed 'invo' (this will throw an Error in a future version of PHP) in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 3
+[01-Sep-2020 00:16:27 America/New_York] PHP Warning:  Use of undefined constant invo - assumed 'invo' (this will throw an Error in a future version of PHP) in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 3
+[01-Sep-2020 00:16:28 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 29
+[01-Sep-2020 00:19:15 America/New_York] PHP Warning:  Use of undefined constant invo - assumed 'invo' (this will throw an Error in a future version of PHP) in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 3
+[01-Sep-2020 00:19:16 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 29
+[01-Sep-2020 00:24:30 America/New_York] PHP Warning:  Use of undefined constant invo - assumed 'invo' (this will throw an Error in a future version of PHP) in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 3
+[01-Sep-2020 00:28:51 America/New_York] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 48
+[01-Sep-2020 00:28:52 America/New_York] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 48
+[01-Sep-2020 00:29:10 America/New_York] PHP Warning:  Use of undefined constant invo - assumed 'invo' (this will throw an Error in a future version of PHP) in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 3
+[01-Sep-2020 00:29:11 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 29
+[01-Sep-2020 00:29:40 America/New_York] PHP Warning:  Use of undefined constant invo - assumed 'invo' (this will throw an Error in a future version of PHP) in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 3
+[01-Sep-2020 00:29:41 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 29
+[01-Sep-2020 00:29:41 America/New_York] PHP Notice:  Trying to get property 'transaction_status' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 31
+[01-Sep-2020 00:31:00 America/New_York] PHP Warning:  Use of undefined constant invo - assumed 'invo' (this will throw an Error in a future version of PHP) in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 3
+[01-Sep-2020 00:31:01 America/New_York] PHP Warning:  file_get_contents() expects parameter 1 to be a valid path, object given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 29
+[01-Sep-2020 00:31:01 America/New_York] PHP Notice:  Trying to get property 'transaction_status' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 31
+[01-Sep-2020 00:32:39 America/New_York] PHP Warning:  Use of undefined constant invo - assumed 'invo' (this will throw an Error in a future version of PHP) in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 3
+[01-Sep-2020 00:32:40 America/New_York] PHP Warning:  file_get_contents() expects parameter 1 to be a valid path, object given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 29
+[01-Sep-2020 00:32:40 America/New_York] PHP Notice:  Trying to get property 'transaction_status' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 31
+[01-Sep-2020 00:44:38 America/New_York] PHP Warning:  require_once(/home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creatVeritrans.php): failed to open stream: No such file or directory in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 3
+[01-Sep-2020 00:44:38 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creatVeritrans.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 3
+[01-Sep-2020 00:44:58 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php on line 97
+[01-Sep-2020 00:44:58 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php on line 98
+[01-Sep-2020 00:44:58 America/New_York] PHP Notice:  Trying to get property 'status_message' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php on line 99
+[01-Sep-2020 00:44:58 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[01-Sep-2020 00:44:58 America/New_York] PHP Fatal error:  Uncaught Exception: Veritrans Error ():  in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php:106
+Stack trace:
+#0 /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php(17): Veritrans_ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-B...', false, false)
+#1 /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/Transaction.php(17): Veritrans_ApiRequestor::get('https://api.san...', 'SB-Mid-server-B...', false)
+#2 /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/Notification.php(20): Veritrans_Transaction::status(NULL)
+#3 /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php(6): Veritrans_Notification->__construct()
+#4 {main}
+  thrown in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[01-Sep-2020 00:48:27 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php on line 97
+[01-Sep-2020 00:48:27 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php on line 98
+[01-Sep-2020 00:48:27 America/New_York] PHP Notice:  Trying to get property 'status_message' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php on line 99
+[01-Sep-2020 00:48:27 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[01-Sep-2020 00:48:27 America/New_York] PHP Fatal error:  Uncaught Exception: Veritrans Error ():  in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php:106
+Stack trace:
+#0 /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php(17): Veritrans_ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-B...', false, false)
+#1 /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/Transaction.php(17): Veritrans_ApiRequestor::get('https://api.san...', 'SB-Mid-server-B...', false)
+#2 /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/Notification.php(20): Veritrans_Transaction::status(NULL)
+#3 /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php(6): Veritrans_Notification->__construct()
+#4 {main}
+  thrown in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[01-Sep-2020 00:54:44 America/New_York] PHP Warning:  Use of undefined constant invo - assumed 'invo' (this will throw an Error in a future version of PHP) in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 3
+[01-Sep-2020 00:54:45 America/New_York] PHP Warning:  file_get_contents() expects parameter 1 to be a valid path, object given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 29
+[01-Sep-2020 00:56:03 America/New_York] PHP Warning:  Use of undefined constant invo - assumed 'invo' (this will throw an Error in a future version of PHP) in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 3
+[01-Sep-2020 00:56:04 America/New_York] PHP Warning:  file_get_contents() expects parameter 1 to be a valid path, object given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 29
+[01-Sep-2020 00:56:19 America/New_York] PHP Warning:  Use of undefined constant invo - assumed 'invo' (this will throw an Error in a future version of PHP) in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 3
+[01-Sep-2020 00:56:21 America/New_York] PHP Warning:  file_get_contents() expects parameter 1 to be a valid path, object given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 29
+[01-Sep-2020 00:56:34 America/New_York] PHP Warning:  Use of undefined constant invo - assumed 'invo' (this will throw an Error in a future version of PHP) in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 3
+[01-Sep-2020 00:56:35 America/New_York] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 29
+[01-Sep-2020 00:57:07 America/New_York] PHP Warning:  Use of undefined constant invo - assumed 'invo' (this will throw an Error in a future version of PHP) in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 3
+[01-Sep-2020 00:57:08 America/New_York] PHP Notice:  Undefined variable: e in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 29
+[01-Sep-2020 00:57:24 America/New_York] PHP Warning:  Use of undefined constant invo - assumed 'invo' (this will throw an Error in a future version of PHP) in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 3
+[01-Sep-2020 00:57:25 America/New_York] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 29
+[01-Sep-2020 01:10:12 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php on line 97
+[01-Sep-2020 01:10:12 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php on line 98
+[01-Sep-2020 01:10:12 America/New_York] PHP Notice:  Trying to get property 'status_message' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php on line 99
+[01-Sep-2020 01:10:12 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[01-Sep-2020 01:10:12 America/New_York] PHP Fatal error:  Uncaught Exception: Veritrans Error ():  in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php:106
+Stack trace:
+#0 /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php(17): Veritrans_ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-B...', false, false)
+#1 /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/Transaction.php(17): Veritrans_ApiRequestor::get('https://api.san...', 'SB-Mid-server-B...', false)
+#2 /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/Notification.php(20): Veritrans_Transaction::status(NULL)
+#3 /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php(6): Veritrans_Notification->__construct()
+#4 {main}
+  thrown in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[01-Sep-2020 01:16:18 America/New_York] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 3
+[01-Sep-2020 02:35:01 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 02:35:02 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 20
+[01-Sep-2020 02:35:02 America/New_York] PHP Notice:  Undefined variable: trx_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 27
+[01-Sep-2020 02:35:02 America/New_York] PHP Notice:  Undefined variable: trx_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 30
+[01-Sep-2020 02:35:02 America/New_York] PHP Notice:  Undefined variable: trx_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 33
+[01-Sep-2020 02:35:02 America/New_York] PHP Notice:  Undefined variable: trx_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 36
+[01-Sep-2020 03:15:45 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 03:15:46 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 20
+[01-Sep-2020 03:23:52 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 03:23:53 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 20
+[01-Sep-2020 03:33:37 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 03:33:38 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 20
+[01-Sep-2020 03:41:05 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 03:41:06 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 20
+[01-Sep-2020 03:41:06 America/New_York] PHP Notice:  Undefined variable: trx1 in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 43
+[01-Sep-2020 03:48:52 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 03:48:53 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 20
+[01-Sep-2020 03:58:21 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 03:58:22 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 20
+[01-Sep-2020 03:58:22 America/New_York] PHP Notice:  Undefined variable: trx1 in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 43
+[01-Sep-2020 04:04:35 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 04:04:36 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 20
+[01-Sep-2020 04:11:02 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 04:23:19 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 04:23:20 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 20
+[01-Sep-2020 08:10:26 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 08:10:35 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 08:10:36 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 20
+[01-Sep-2020 08:11:41 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 08:12:01 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 08:13:18 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 09:21:31 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 09:23:25 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 09:26:42 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 09:33:17 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 09:33:21 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 12:26:23 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 12:27:17 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 12:28:12 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 12:28:18 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[01-Sep-2020 12:28:31 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[03-Sep-2020 02:59:56 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[03-Sep-2020 03:00:44 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[05-Sep-2020 01:27:57 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[07-Sep-2020 03:02:35 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[07-Sep-2020 03:35:25 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[15-Sep-2020 01:08:47 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[15-Sep-2020 01:08:53 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[27-Sep-2020 07:08:32 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[27-Sep-2020 07:08:53 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[29-Sep-2020 11:56:40 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[29-Sep-2020 11:57:04 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[29-Sep-2020 11:57:19 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[29-Sep-2020 11:58:27 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[22-Oct-2020 04:27:45 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[22-Oct-2020 04:27:57 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[23-Oct-2020 04:46:27 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[23-Oct-2020 04:46:28 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 20
+[23-Oct-2020 05:44:38 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[23-Oct-2020 05:44:39 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 20
+[23-Oct-2020 05:44:41 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[23-Oct-2020 05:44:42 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 20
+[23-Oct-2020 05:44:45 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[23-Oct-2020 05:44:46 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 20
+[23-Oct-2020 06:21:25 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[23-Oct-2020 06:21:26 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 20
+[23-Oct-2020 06:21:59 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[23-Oct-2020 06:22:00 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 20
+[23-Oct-2020 06:23:20 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[23-Oct-2020 06:23:21 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 20
+[23-Oct-2020 06:24:08 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[23-Oct-2020 06:24:09 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 20
+[12-Jan-2021 11:25:23 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 14
+[12-Jan-2021 11:25:24 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/price/midtrans-creat/chek-payment.php on line 20
+[12-Jan-2021 11:51:40 America/New_York] PHP Warning:  include(../../../../config/database/koneksi.php): failed to open stream: No such file or directory in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 8
+[12-Jan-2021 11:51:40 America/New_York] PHP Warning:  include(../../../../config/database/koneksi.php): failed to open stream: No such file or directory in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 8
+[12-Jan-2021 11:51:40 America/New_York] PHP Warning:  include(): Failed opening '../../../../config/database/koneksi.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 8
+[12-Jan-2021 11:51:40 America/New_York] PHP Notice:  Undefined variable: koneksi in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 9
+[12-Jan-2021 11:51:40 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 9
+[12-Jan-2021 11:51:40 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 10
+[12-Jan-2021 11:51:44 America/New_York] PHP Warning:  include(../../../../config/database/koneksi.php): failed to open stream: No such file or directory in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 8
+[12-Jan-2021 11:51:44 America/New_York] PHP Warning:  include(../../../../config/database/koneksi.php): failed to open stream: No such file or directory in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 8
+[12-Jan-2021 11:51:44 America/New_York] PHP Warning:  include(): Failed opening '../../../../config/database/koneksi.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 8
+[12-Jan-2021 11:51:44 America/New_York] PHP Notice:  Undefined variable: koneksi in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 9
+[12-Jan-2021 11:51:44 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 9
+[12-Jan-2021 11:51:44 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 10
+[12-Jan-2021 11:53:28 America/New_York] PHP Warning:  include(../../../../config/database/koneksi.php): failed to open stream: No such file or directory in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 8
+[12-Jan-2021 11:53:28 America/New_York] PHP Warning:  include(../../../../config/database/koneksi.php): failed to open stream: No such file or directory in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 8
+[12-Jan-2021 11:53:28 America/New_York] PHP Warning:  include(): Failed opening '../../../../config/database/koneksi.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 8
+[12-Jan-2021 11:53:28 America/New_York] PHP Notice:  Undefined variable: koneksi in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 9
+[12-Jan-2021 11:53:28 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 9
+[12-Jan-2021 11:53:28 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 10
+[12-Jan-2021 12:20:52 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[12-Jan-2021 12:20:53 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 20
+[12-Jan-2021 12:20:53 America/New_York] PHP Warning:  include(../../../../config/database/koneksi.php): failed to open stream: No such file or directory in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 23
+[12-Jan-2021 12:20:53 America/New_York] PHP Warning:  include(../../../../config/database/koneksi.php): failed to open stream: No such file or directory in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 23
+[12-Jan-2021 12:20:53 America/New_York] PHP Warning:  include(): Failed opening '../../../../config/database/koneksi.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 23
+[12-Jan-2021 12:20:53 America/New_York] PHP Notice:  Undefined variable: koneksi in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 51
+[12-Jan-2021 12:20:53 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 51
+[12-Jan-2021 12:20:53 America/New_York] PHP Notice:  Undefined variable: koneksi in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 55
+[12-Jan-2021 12:20:53 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 55
+[12-Jan-2021 12:41:21 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[12-Jan-2021 12:41:22 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 20
+[12-Jan-2021 12:41:22 America/New_York] PHP Warning:  include(../../../../config/database/koneksi.php): failed to open stream: No such file or directory in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 23
+[12-Jan-2021 12:41:22 America/New_York] PHP Warning:  include(../../../../config/database/koneksi.php): failed to open stream: No such file or directory in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 23
+[12-Jan-2021 12:41:22 America/New_York] PHP Warning:  include(): Failed opening '../../../../config/database/koneksi.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 23
+[12-Jan-2021 12:41:22 America/New_York] PHP Notice:  Undefined variable: koneksi in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 51
+[12-Jan-2021 12:41:22 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 51
+[12-Jan-2021 12:41:22 America/New_York] PHP Notice:  Undefined variable: koneksi in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 55
+[12-Jan-2021 12:41:22 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 55
+[12-Jan-2021 12:41:39 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[12-Jan-2021 12:41:40 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 20
+[12-Jan-2021 12:41:40 America/New_York] PHP Warning:  include(../../../../config/database/koneksi.php): failed to open stream: No such file or directory in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 23
+[12-Jan-2021 12:41:40 America/New_York] PHP Warning:  include(../../../../config/database/koneksi.php): failed to open stream: No such file or directory in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 23
+[12-Jan-2021 12:41:40 America/New_York] PHP Warning:  include(): Failed opening '../../../../config/database/koneksi.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 23
+[12-Jan-2021 12:41:40 America/New_York] PHP Notice:  Undefined variable: koneksi in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 51
+[12-Jan-2021 12:41:40 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 51
+[12-Jan-2021 12:41:40 America/New_York] PHP Notice:  Undefined variable: koneksi in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 55
+[12-Jan-2021 12:41:40 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 55
+[12-Jan-2021 12:59:23 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[12-Jan-2021 12:59:25 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 20
+[12-Jan-2021 12:59:25 America/New_York] PHP Warning:  include(../../../../config/database/koneksi.php): failed to open stream: No such file or directory in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 23
+[12-Jan-2021 12:59:25 America/New_York] PHP Warning:  include(../../../../config/database/koneksi.php): failed to open stream: No such file or directory in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 23
+[12-Jan-2021 12:59:25 America/New_York] PHP Warning:  include(): Failed opening '../../../../config/database/koneksi.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 23
+[12-Jan-2021 12:59:25 America/New_York] PHP Notice:  Undefined variable: koneksi in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 51
+[12-Jan-2021 12:59:25 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 51
+[12-Jan-2021 12:59:25 America/New_York] PHP Notice:  Undefined variable: koneksi in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 55
+[12-Jan-2021 12:59:25 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 55
+[12-Jan-2021 13:00:40 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[12-Jan-2021 13:00:42 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 21
+[27-Feb-2021 00:09:55 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[27-Feb-2021 00:09:56 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 21
+[27-Feb-2021 02:56:43 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[27-Feb-2021 02:56:44 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 21
+[27-Feb-2021 02:56:44 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[27-Feb-2021 02:56:46 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 21
+[27-Feb-2021 07:33:10 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[27-Feb-2021 07:33:14 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[27-Feb-2021 07:34:18 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[27-Feb-2021 07:35:17 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[27-Feb-2021 07:36:04 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[27-Feb-2021 07:36:05 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 21
+[27-Feb-2021 07:38:10 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[27-Feb-2021 07:38:51 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[27-Feb-2021 07:38:52 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 21
+[27-Feb-2021 07:39:02 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[27-Feb-2021 07:39:06 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[27-Feb-2021 07:39:07 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 21
+[27-Feb-2021 07:40:33 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[27-Feb-2021 07:40:34 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 21
+[27-Feb-2021 07:45:22 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[27-Feb-2021 07:45:23 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 21
+[27-Feb-2021 07:45:53 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[27-Feb-2021 07:45:54 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 21
+[27-Feb-2021 07:46:02 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[27-Feb-2021 08:18:40 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[27-Feb-2021 08:18:41 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 21
+[27-Feb-2021 22:51:23 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[27-Feb-2021 22:51:24 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 21
+[27-Feb-2021 23:05:15 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[27-Feb-2021 23:05:16 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 21
+[27-Feb-2021 23:16:07 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 97
+[27-Feb-2021 23:16:07 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 98
+[27-Feb-2021 23:16:07 America/New_York] PHP Notice:  Trying to get property 'status_message' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 99
+[27-Feb-2021 23:16:07 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[27-Feb-2021 23:16:07 America/New_York] PHP Fatal error:  Uncaught Exception: Veritrans Error ():  in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php:106
+Stack trace:
+#0 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php(17): Veritrans_ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-B...', false, false)
+#1 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/Transaction.php(17): Veritrans_ApiRequestor::get('https://api.san...', 'SB-Mid-server-B...', false)
+#2 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/Notification.php(20): Veritrans_Transaction::status(NULL)
+#3 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/notification-handler.php(6): Veritrans_Notification->__construct()
+#4 {main}
+  thrown in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[27-Feb-2021 23:29:57 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 97
+[27-Feb-2021 23:29:57 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 98
+[27-Feb-2021 23:29:57 America/New_York] PHP Notice:  Trying to get property 'status_message' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 99
+[27-Feb-2021 23:29:57 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[27-Feb-2021 23:29:57 America/New_York] PHP Fatal error:  Uncaught Exception: Veritrans Error ():  in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php:106
+Stack trace:
+#0 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php(17): Veritrans_ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-B...', false, false)
+#1 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/Transaction.php(17): Veritrans_ApiRequestor::get('https://api.san...', 'SB-Mid-server-B...', false)
+#2 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/Notification.php(20): Veritrans_Transaction::status(NULL)
+#3 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/notification-handler.php(9): Veritrans_Notification->__construct()
+#4 {main}
+  thrown in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[27-Feb-2021 23:30:06 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 97
+[27-Feb-2021 23:30:06 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 98
+[27-Feb-2021 23:30:06 America/New_York] PHP Notice:  Trying to get property 'status_message' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 99
+[27-Feb-2021 23:30:06 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[27-Feb-2021 23:30:06 America/New_York] PHP Fatal error:  Uncaught Exception: Veritrans Error ():  in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php:106
+Stack trace:
+#0 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php(17): Veritrans_ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-B...', false, false)
+#1 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/Transaction.php(17): Veritrans_ApiRequestor::get('https://api.san...', 'SB-Mid-server-B...', false)
+#2 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/Notification.php(20): Veritrans_Transaction::status(NULL)
+#3 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/notification-handler.php(9): Veritrans_Notification->__construct()
+#4 {main}
+  thrown in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[27-Feb-2021 23:58:12 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 97
+[27-Feb-2021 23:58:12 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 98
+[27-Feb-2021 23:58:12 America/New_York] PHP Notice:  Trying to get property 'status_message' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 99
+[27-Feb-2021 23:58:12 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[27-Feb-2021 23:58:12 America/New_York] PHP Fatal error:  Uncaught Exception: Veritrans Error ():  in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php:106
+Stack trace:
+#0 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php(17): Veritrans_ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-B...', false, false)
+#1 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/Transaction.php(17): Veritrans_ApiRequestor::get('https://api.san...', 'SB-Mid-server-B...', false)
+#2 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/Notification.php(20): Veritrans_Transaction::status(NULL)
+#3 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/notification-handler.php(9): Veritrans_Notification->__construct()
+#4 {main}
+  thrown in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[28-Feb-2021 00:03:01 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 97
+[28-Feb-2021 00:03:01 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 98
+[28-Feb-2021 00:03:01 America/New_York] PHP Notice:  Trying to get property 'status_message' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 99
+[28-Feb-2021 00:03:01 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[28-Feb-2021 00:03:01 America/New_York] PHP Fatal error:  Uncaught Exception: Veritrans Error ():  in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php:106
+Stack trace:
+#0 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php(17): Veritrans_ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-B...', false, false)
+#1 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/Transaction.php(17): Veritrans_ApiRequestor::get('https://api.san...', 'SB-Mid-server-B...', false)
+#2 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/Notification.php(20): Veritrans_Transaction::status(NULL)
+#3 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/notification-handler.php(9): Veritrans_Notification->__construct()
+#4 {main}
+  thrown in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[28-Feb-2021 00:18:36 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 97
+[28-Feb-2021 00:18:36 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 98
+[28-Feb-2021 00:18:36 America/New_York] PHP Notice:  Trying to get property 'status_message' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 99
+[28-Feb-2021 00:18:36 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[28-Feb-2021 00:18:36 America/New_York] PHP Fatal error:  Uncaught Exception: Veritrans Error ():  in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php:106
+Stack trace:
+#0 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php(17): Veritrans_ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-B...', false, false)
+#1 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/Transaction.php(17): Veritrans_ApiRequestor::get('https://api.san...', 'SB-Mid-server-B...', false)
+#2 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/Notification.php(20): Veritrans_Transaction::status(NULL)
+#3 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/notification-handler.php(9): Veritrans_Notification->__construct()
+#4 {main}
+  thrown in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[28-Feb-2021 00:18:44 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 97
+[28-Feb-2021 00:18:44 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 98
+[28-Feb-2021 00:18:44 America/New_York] PHP Notice:  Trying to get property 'status_message' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 99
+[28-Feb-2021 00:18:44 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[28-Feb-2021 00:18:44 America/New_York] PHP Fatal error:  Uncaught Exception: Veritrans Error ():  in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php:106
+Stack trace:
+#0 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php(17): Veritrans_ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-B...', false, false)
+#1 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/Transaction.php(17): Veritrans_ApiRequestor::get('https://api.san...', 'SB-Mid-server-B...', false)
+#2 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/Notification.php(20): Veritrans_Transaction::status(NULL)
+#3 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/notification-handler.php(9): Veritrans_Notification->__construct()
+#4 {main}
+  thrown in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[28-Feb-2021 00:28:57 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 97
+[28-Feb-2021 00:28:57 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 98
+[28-Feb-2021 00:28:57 America/New_York] PHP Notice:  Trying to get property 'status_message' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 99
+[28-Feb-2021 00:28:57 America/New_York] PHP Notice:  Trying to get property 'status_code' of non-object in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[28-Feb-2021 00:28:57 America/New_York] PHP Fatal error:  Uncaught Exception: Veritrans Error ():  in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php:106
+Stack trace:
+#0 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php(17): Veritrans_ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-B...', false, false)
+#1 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/Transaction.php(17): Veritrans_ApiRequestor::get('https://api.san...', 'SB-Mid-server-B...', false)
+#2 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/Notification.php(20): Veritrans_Transaction::status(NULL)
+#3 /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/notification-handler.php(9): Veritrans_Notification->__construct()
+#4 {main}
+  thrown in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/Veritrans/ApiRequestor.php on line 106
+[28-Feb-2021 00:44:50 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 00:44:51 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 21
+[28-Feb-2021 00:44:54 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 00:44:58 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 00:46:23 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 01:23:20 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 01:45:16 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 01:45:18 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 01:45:18 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 01:45:18 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 73
+[28-Feb-2021 01:45:18 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 73
+[28-Feb-2021 01:45:58 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 01:45:59 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 01:45:59 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 01:45:59 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 73
+[28-Feb-2021 01:45:59 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 73
+[28-Feb-2021 01:52:39 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 01:52:40 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 01:52:40 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 01:52:40 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 73
+[28-Feb-2021 01:52:40 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 73
+[28-Feb-2021 01:54:53 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 01:54:54 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 01:54:54 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 01:54:54 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 73
+[28-Feb-2021 01:54:54 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 73
+[28-Feb-2021 01:54:59 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 01:55:00 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 01:55:00 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 01:55:00 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 73
+[28-Feb-2021 01:55:00 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 73
+[28-Feb-2021 01:55:33 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 01:55:34 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 01:55:34 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 01:55:34 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 73
+[28-Feb-2021 01:55:34 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 73
+[28-Feb-2021 02:00:34 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 02:00:35 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 02:00:35 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 02:00:35 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 74
+[28-Feb-2021 02:00:35 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 74
+[28-Feb-2021 02:01:36 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 02:01:38 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 02:01:38 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 02:01:38 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 74
+[28-Feb-2021 02:01:38 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 74
+[28-Feb-2021 02:02:35 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 02:02:36 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 02:02:36 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 02:02:36 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 74
+[28-Feb-2021 02:02:36 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 74
+[28-Feb-2021 02:29:13 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 02:29:14 America/New_York] PHP Notice:  Undefined index: transaction_status in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 21
+[28-Feb-2021 02:29:14 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 02:29:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 02:29:14 America/New_York] PHP Notice:  Undefined index: gross_amount in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 27
+[28-Feb-2021 02:29:14 America/New_York] PHP Notice:  Undefined index: payment_type in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 28
+[28-Feb-2021 02:29:14 America/New_York] PHP Notice:  Undefined index: signature_key in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 29
+[28-Feb-2021 02:29:14 America/New_York] PHP Notice:  Undefined index: merchant_id in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 30
+[28-Feb-2021 02:29:14 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 74
+[28-Feb-2021 02:29:14 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 74
+[28-Feb-2021 02:33:36 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 02:38:32 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 02:51:15 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 02:53:10 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 02:53:24 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 02:55:15 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 03:04:40 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 03:05:03 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 03:05:08 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 03:10:30 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 03:12:53 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 03:15:49 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 03:16:06 America/New_York] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[28-Feb-2021 03:16:17 America/New_York] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[28-Feb-2021 03:18:11 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 03:18:12 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 03:18:12 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 03:18:12 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 75
+[28-Feb-2021 03:18:12 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 75
+[28-Feb-2021 03:34:02 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 03:34:03 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 03:34:03 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 03:34:03 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 03:34:03 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 03:34:24 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 03:34:25 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 03:34:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 03:34:25 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 03:34:25 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 03:35:09 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 03:35:11 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 03:35:11 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 03:35:11 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 03:35:11 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 03:42:43 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 03:42:44 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 03:42:44 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 03:42:44 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 03:42:44 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 03:49:22 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 03:49:23 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 03:49:23 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 03:49:23 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 03:49:23 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 03:49:42 America/New_York] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[28-Feb-2021 03:49:57 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 03:49:58 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 03:49:58 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 03:49:58 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 03:49:58 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 03:54:09 America/New_York] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[28-Feb-2021 03:54:22 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 03:54:24 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 03:54:24 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 03:54:24 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 03:54:24 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 03:54:39 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 03:55:05 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 03:55:08 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 03:55:08 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 03:55:08 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 03:55:08 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 03:55:46 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 03:55:59 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 04:13:45 America/New_York] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[28-Feb-2021 04:18:42 America/New_York] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[28-Feb-2021 04:19:05 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 04:19:06 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 04:19:06 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 04:19:06 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 04:19:06 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 04:20:19 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 04:20:20 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 04:20:20 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 04:20:20 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 04:20:20 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 04:21:16 America/New_York] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[28-Feb-2021 04:21:43 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 04:21:44 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 04:21:44 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 04:21:44 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 04:21:44 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 04:34:48 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 04:34:49 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 04:34:49 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 04:34:49 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 04:34:49 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 04:36:39 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 04:36:40 America/New_York] PHP Notice:  Undefined index: va_numbers in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 04:36:40 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 22
+[28-Feb-2021 04:36:40 America/New_York] PHP Notice:  Undefined variable: bank in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 04:36:40 America/New_York] PHP Notice:  Undefined variable: norek in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 76
+[28-Feb-2021 07:29:41 America/New_York] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[28-Feb-2021 07:29:53 America/New_York] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[28-Feb-2021 07:30:00 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 21:07:08 America/New_York] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[28-Feb-2021 21:07:31 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 21:07:51 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[28-Feb-2021 21:08:03 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[01-Mar-2021 07:12:33 America/New_York] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[01-Mar-2021 09:32:13 America/New_York] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[01-Mar-2021 10:10:38 America/New_York] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[01-Mar-2021 10:10:47 America/New_York] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[01-Mar-2021 11:10:11 America/New_York] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[01-Mar-2021 11:10:31 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[01-Mar-2021 11:12:57 America/New_York] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[01-Mar-2021 11:13:12 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[04-Mar-2021 20:42:42 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[04-Mar-2021 23:15:06 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[04-Mar-2021 11:15:48 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[04-Mar-2021 11:15:55 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[06-Mar-2021 16:23:27 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[06-Mar-2021 04:23:45 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[06-Mar-2021 04:23:58 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[06-Mar-2021 04:24:35 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[06-Mar-2021 21:49:35 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[12-Mar-2021 01:39:35 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[12-Mar-2021 01:42:15 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[12-Mar-2021 01:42:16 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[12-Mar-2021 01:42:26 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[12-Mar-2021 01:42:44 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[12-Mar-2021 01:42:58 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[12-Mar-2021 01:51:48 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[12-Mar-2021 01:52:30 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[12-Mar-2021 01:52:39 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[11-Mar-2021 13:52:49 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[12-Mar-2021 21:00:15 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[12-Mar-2021 21:00:21 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[12-Mar-2021 21:00:29 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[15-Mar-2021 16:21:35 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[15-Mar-2021 05:22:16 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[15-Mar-2021 05:23:03 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[15-Mar-2021 05:23:14 America/New_York] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/chek-payment.php on line 14
+[16-Mar-2021 04:56:55 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[16-Mar-2021 04:57:21 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21
+[16-Mar-2021 04:57:32 Asia/Jakarta] PHP Notice:  Undefined variable: nope in /home/flaswuxc/hpanel.flashing.center/index/user/midtrans-creat/proses.php on line 21

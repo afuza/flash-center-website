@@ -1,0 +1,37 @@
+[13-Jul-2020 21:31:58 America/New_York] PHP Notice:  Undefined index: Email in /home/flaswuxc/public_html/auth/u_singup/activation.php on line 45
+[13-Jul-2020 21:39:38 America/New_York] PHP Notice:  Undefined index: Email in /home/flaswuxc/public_html/auth/u_singup/activation.php on line 45
+[15-Jul-2020 02:58:29 America/New_York] PHP Notice:  Undefined index: Email in /home/flaswuxc/public_html/auth/u_singup/activation.php on line 45
+[15-Jul-2020 03:06:03 America/New_York] PHP Notice:  Undefined index: Email in /home/flaswuxc/public_html/auth/u_singup/activation.php on line 45
+[15-Jul-2020 03:10:57 America/New_York] PHP Notice:  Undefined index: Email in /home/flaswuxc/public_html/auth/u_singup/activation.php on line 45
+[15-Jul-2020 03:16:06 America/New_York] PHP Notice:  Undefined index: Email in /home/flaswuxc/public_html/auth/u_singup/activation.php on line 45
+[15-Jul-2020 03:18:13 America/New_York] PHP Notice:  Undefined index: Email in /home/flaswuxc/public_html/auth/u_singup/activation.php on line 45
+[15-Jul-2020 03:25:55 America/New_York] PHP Notice:  Undefined index: Email in /home/flaswuxc/public_html/auth/u_singup/activation.php on line 45
+[18-Jul-2020 15:16:21 America/New_York] PHP Notice:  Undefined index: Email in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/activation.php on line 45
+[18-Jul-2020 15:31:59 America/New_York] PHP Notice:  Undefined index: Email in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/activation.php on line 45
+[18-Jul-2020 15:39:40 America/New_York] PHP Notice:  Undefined index: Email in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/activation.php on line 45
+[18-Jul-2020 15:40:50 America/New_York] PHP Notice:  Undefined index: Email in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/mail.php on line 23
+[18-Jul-2020 15:40:50 America/New_York] PHP Notice:  Undefined index: Nama in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/mail.php on line 23
+[18-Jul-2020 15:40:50 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/vendor/phpmailer/phpmailer/src/PHPMailer.php:1079
+Stack trace:
+#0 /home/flaswuxc/hpanel.flashing.center/auth/u_singup/vendor/phpmailer/phpmailer/src/PHPMailer.php(1001): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '', '')
+#1 /home/flaswuxc/hpanel.flashing.center/auth/u_singup/mail.php(23): PHPMailer\PHPMailer\PHPMailer->addAddress(NULL, NULL)
+#2 {main}
+  thrown in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1079
+[18-Jul-2020 15:41:11 America/New_York] PHP Notice:  Undefined index: Email in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/mail.php on line 23
+[18-Jul-2020 15:41:11 America/New_York] PHP Notice:  Undefined index: Nama in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/mail.php on line 23
+[18-Jul-2020 15:41:11 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/vendor/phpmailer/phpmailer/src/PHPMailer.php:1079
+Stack trace:
+#0 /home/flaswuxc/hpanel.flashing.center/auth/u_singup/vendor/phpmailer/phpmailer/src/PHPMailer.php(1001): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '', '')
+#1 /home/flaswuxc/hpanel.flashing.center/auth/u_singup/mail.php(23): PHPMailer\PHPMailer\PHPMailer->addAddress(NULL, NULL)
+#2 {main}
+  thrown in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1079
+[18-Jul-2020 15:57:41 America/New_York] PHP Notice:  Undefined index: Email in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/activation.php on line 45
+[18-Jul-2020 16:07:48 America/New_York] PHP Notice:  Undefined index: Email in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/activation.php on line 45
+[19-Jul-2020 09:29:06 America/New_York] PHP Notice:  Undefined index: email in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/activation.php on line 45
+[19-Jul-2020 09:56:25 America/New_York] PHP Notice:  Undefined index: email in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/activation.php on line 44
+[19-Jul-2020 09:59:34 America/New_York] PHP Notice:  Undefined index: email in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/activation.php on line 44
+[19-Jul-2020 10:03:22 America/New_York] PHP Notice:  Undefined index: email in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/activation.php on line 44
+[19-Jul-2020 10:06:17 America/New_York] PHP Notice:  Undefined index: email in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/activation.php on line 44
+[19-Jul-2020 10:07:34 America/New_York] PHP Notice:  Undefined index: email in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/activation.php on line 44
+[27-Aug-2020 06:23:50 America/New_York] PHP Notice:  Undefined index: email in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/activation.php on line 44
+[27-Aug-2020 06:24:47 America/New_York] PHP Notice:  Undefined index: email in /home/flaswuxc/hpanel.flashing.center/auth/u_singup/activation.php on line 44
